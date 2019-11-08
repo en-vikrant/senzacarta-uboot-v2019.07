@@ -1,0 +1,6 @@
+MX7DSENZACARTA BOARD
+M:	Vikrant A P <vikrant.ap@econote.in>
+S:	Maintained
+F:	board/senzacarta/mx7dsenzacarta
+F:	include/configs/mx7dsenzacarta.h
+F:	configs/mx7dsenzacarta_defconfig
